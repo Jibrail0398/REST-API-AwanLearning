@@ -1,0 +1,15 @@
+[19-Jun-2024 09:05:23 Asia/Jakarta] PHP Warning:  require(/home/yllc5741/public_html/awan/Fptest/vendor/autoload.php): Failed to open stream: No such file or directory in /home/yllc5741/public_html/awan/index.php on line 34
+[19-Jun-2024 09:05:23 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Failed opening required '/home/yllc5741/public_html/awan/Fptest/vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yllc5741/public_html/awan/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/yllc5741/public_html/awan/index.php on line 34
+[19-Jun-2024 09:05:25 Asia/Jakarta] PHP Warning:  require(/home/yllc5741/public_html/awan/Fptest/vendor/autoload.php): Failed to open stream: No such file or directory in /home/yllc5741/public_html/awan/index.php on line 34
+[19-Jun-2024 09:05:25 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Failed opening required '/home/yllc5741/public_html/awan/Fptest/vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yllc5741/public_html/awan/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/yllc5741/public_html/awan/index.php on line 34
+[21-Jun-2024 15:48:59 UTC] PHP Fatal error:  Cannot declare class ProtectUserController, because the name is already in use in /home/yllc5741/public_html/awan/FPtest/app/Http/Controllers/Api/ProtectUserController.php on line 3
+[21-Jun-2024 15:50:07 UTC] PHP Fatal error:  Cannot declare class ProtectUserController, because the name is already in use in /home/yllc5741/public_html/awan/FPtest/app/Http/Controllers/Api/ProtectUserController.php on line 5
+[21-Jun-2024 15:51:13 UTC] PHP Fatal error:  Cannot declare class ProtectUserController, because the name is already in use in /home/yllc5741/public_html/awan/FPtest/app/Http/Controllers/Api/ProtectUserController.php on line 5
+[21-Jun-2024 15:52:34 UTC] PHP Fatal error:  Cannot declare class App\Http\Controllers\Api\ProtectionController, because the name is already in use in /home/yllc5741/public_html/awan/FPtest/app/Http/Controllers/Api/ProtectUserController.php on line 12
+[21-Jun-2024 15:55:42 UTC] PHP Fatal error:  Cannot declare class App\Http\Controllers\Api\ProtectedUserController, because the name is already in use in /home/yllc5741/public_html/awan/FPtest/app/Http/Controllers/Api/ProtectUserController.php on line 12
